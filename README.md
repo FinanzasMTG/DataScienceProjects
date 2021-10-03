@@ -1,2 +1,1 @@
-# DataScienceProjects
- This is some of the projects I do on my free time.
+In this repository you can find some of my data science work, as well some of my technical skills.
