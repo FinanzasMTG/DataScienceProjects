@@ -2,7 +2,7 @@
 
 ## 📈 Description
 
-In this repository you will find some some of my Data Science work and my technical skills.
+In this repository you will find some of my Data Science work and technical skills.
 
 At the moment, you can find a machine learning model created with Python (SciKit) which can predict the sentiment of any gaming review, and a statistical analysis tool that can calculate the estimated value of a Magic: The Gathering box.
 
